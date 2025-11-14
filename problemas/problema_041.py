@@ -50,7 +50,8 @@ def solve():
             if es_primo(numero):
                 if numero > mayor_primo:
                     mayor_primo = numero
-                    return mayor_primo
+                    print(mayor_primo)
+                    return
         n -= 1
     return None
 
