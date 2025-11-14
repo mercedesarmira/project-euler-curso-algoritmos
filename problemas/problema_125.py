@@ -3,8 +3,9 @@ Problema 125
 
 Enunciado: https://projecteuler.net/problem=125
 Categoría: #4
-Complejidad:
 Tiempo observado: 0.00051 s
+Rating: 25
+Puntuación: 1
 """
 
 LIMIT = 10**8  

@@ -3,9 +3,10 @@ Problema 77
 
 Enunciado: https://projecteuler.net/problem=77
 Categoría: #4
-Complejidad: 
 Tiempo observado: 0.00601 s
-Enlace chat LLM:
+Enlace chat LLM: https://chatgpt.com/share/6916ce5e-4d3c-800f-b225-34f700accb3c
+Rating: 25
+Puntuación: 1
 """
 
 from typing import List, Tuple

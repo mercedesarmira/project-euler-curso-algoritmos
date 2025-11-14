@@ -3,7 +3,7 @@ Problema 15
 
 Enunciado: https://projecteuler.net/problem=15
 Categoría: #3
-Complejidad: 
+Complejidad: T(n)=Θ(n^2)
 Tiempo observado: 0.00081 s
 """
 

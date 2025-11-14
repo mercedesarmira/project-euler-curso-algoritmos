@@ -3,6 +3,7 @@ Problema 1
 
 Enunciado: https://projecteuler.net/problem=1
 Categoría: #1
+Complejidad: T(n) = O(n)
 Tiempo observado: 0.00158 s
 """
 

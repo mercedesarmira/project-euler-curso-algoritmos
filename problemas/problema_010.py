@@ -4,6 +4,7 @@ Problema 10
 Enunciado: https://projecteuler.net/problem=10
 Categoría: #1 
 Tiempo observado: 12.10970 s
+Complejidad: T(n) = Θ(n^(3/2))  
 """
 
 def es_primo(n):

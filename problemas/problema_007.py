@@ -3,7 +3,7 @@ Problema 7
 
 Enunciado: https://projecteuler.net/problem=7
 Categoría: #2
-Complejidad:  
+Complejidad: T(n) = Θ((n log n)^2)    
 Tiempo observado: 33.49342 s
 """
 

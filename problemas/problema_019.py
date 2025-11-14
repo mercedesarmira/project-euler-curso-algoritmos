@@ -3,7 +3,6 @@ Problema 19
 
 Enunciado: https://projecteuler.net/problem=19
 Categoría: #3
-Complejidad: 
 Tiempo observado: 0.00487 s
 """
 
